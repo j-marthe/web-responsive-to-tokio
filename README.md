@@ -12,7 +12,7 @@ Este es un proyecto de práctica que combina un **boilerplate moderno** [UOC Boi
 
 ## Demo
 
-Puedes ver el proyecto en vivo en: [https://tu-deployment.netlify.app](https://tu-deployment.netlify.app)
+Puedes ver el proyecto en vivo en: [https://to-tokyo.netlify.app/](https://to-tokyo.netlify.app/)
 
 ## Instalación y Uso
 
